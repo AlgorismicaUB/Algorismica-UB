@@ -1,6 +1,6 @@
 # Algorismica-UB
 
-## GitHub Classroom
+## Us de GitHub
 
 El propòsit d'aquestes instruccions és mostrar com utilitzar GitHub al curs d'Algorísmica d'Engineria Informàtca a la UB.
 
@@ -21,3 +21,7 @@ privats i es pot accedir a ``https://github.com/AlgorismicaUB``.
 
 Aquesta organització pot crear un dipòsit privat per a cada estudiant. Per fer-ho, el professor ha de conèixer el nom personal d'usuari de GitHub de cada estudiant. L'estudiant rebrà un correu electrònic convidant-lo a obrir el repositori. L'estudiant ha d'acceptar la invitació. 
 
+Un cop l'estudiant té accéss al repositori que conté una sessió de problemes, ha de seguir els següents passos:
+1. Entrar a https://github.com amb el seu compte personal.
+2. Anar a https://github.com/AlgorismicaUB.
+3. 

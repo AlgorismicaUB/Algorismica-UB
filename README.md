@@ -24,4 +24,7 @@ Aquesta organització pot crear un dipòsit privat per a cada estudiant. Per fer
 Un cop l'estudiant té accéss al repositori que conté una sessió de problemes, ha de seguir els següents passos:
 1. Entrar a https://github.com amb el seu compte personal.
 2. Anar a https://github.com/AlgorismicaUB.
-3. Comprovar que el respositori privat és visible. Pr exemple: `` https://github.com/AlgorismicaUB/Problema1``. 
+3. Comprovar que el respositori privat és visible. Per exemple: `` https://github.com/AlgorismicaUB/Problema1``. 
+4. Descarregar el Jupyter notebook corresponent a la sessió de problemes.
+5. Resoldre els problemes en el seu ordinador.
+6. Pujar el notebook amb les solucions al repositori privat.

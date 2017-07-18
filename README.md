@@ -19,3 +19,5 @@ privat creat per professor.
 Els professors gestionen un compte d'organització anomenat ``AlgorismicaUB``. Aquesta organització té drets per crear dipòsits 
 privats i es pot accedir a ``https://github.com/AlgorismicaUB``. 
 
+Aquesta organització pot crear un dipòsit privat per a cada estudiant. Per fer-ho, el professor ha de conèixer el nom personal d'usuari de GitHub de cada estudiant. L'estudiant rebrà un correu electrònic convidant-lo a obrir el repositori. L'estudiant ha d'acceptar la invitació. 
+
